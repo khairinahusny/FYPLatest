@@ -1,3 +1,8 @@
+## About:
+
+#### Main objective of this project is to design a fuzzy logic system which are used as a problem solving method based on human reasoning in defining levels of the capability of the children in retaining information within a short period of time. 
+#### The system will integrate in such a way that the teachers will be able to get the results of the children’s performance in engaging with the experiments in variance of cognitive visual perceptual task and auditory processing performance. 
+
 ## Installation Guide:
 
 <b>1. To run the application, make sure Python is installed on the computer. You may download from this link : https://www.python.org/downloads/ </b>
