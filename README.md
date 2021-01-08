@@ -5,7 +5,7 @@ To run the application, make sure Python is installed on the computer. You may d
 Install xampp for the database application. You may download here: https://www.apachefriends.org/download.html
 
 Install PIP. Python 3.7 came with PIP pre-installed. To be safe, update your PIP to the latest version using following command.
-python -m pip install --U pip
+'python -m pip install --U pip'
 
 Install the following library using these commands in the terminal:
 pip install numpy
