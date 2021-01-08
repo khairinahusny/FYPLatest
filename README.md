@@ -4,9 +4,12 @@
 #### The system will integrate in such a way that the teachers will be able to get the results of the children’s performance in engaging with the experiments in variance of cognitive visual perceptual task and auditory processing performance. 
 
 - [x] To design a Fuzzy Logic System (FLS) in evaluating the levels of visual and auditory capacity among special needs children.
+
+   ![image](https://github.com/khairinahusny/FuzzyLogicSystem/blob/master/Images/FLS_architecture.PNG)
+
 - [x] To develop an API that integrates between experiment stimulus (digit span) and Mamdani FLS.
 
-![image](https://github.com/khairinahusny/FuzzyLogicSystem/blob/master/Images/FLS_architecture.PNG)
+   ![image](https://github.com/khairinahusny/FuzzyLogicSystem/blob/master/Images/system_architecture.PNG)
 
 ## Installation Guide:
 
