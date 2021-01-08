@@ -1,6 +1,6 @@
 ## Installation Guide:
 
-1. To run the application, make sure Python is installed on the computer. You may download from this link : https://www.python.org/downloads/
+<b>1. To run the application, make sure Python is installed on the computer. You may download from this link : https://www.python.org/downloads/ </b>
 
 2. Install xampp for the database application. You may download here: https://www.apachefriends.org/download.html
 
