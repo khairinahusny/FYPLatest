@@ -6,7 +6,7 @@
 - [x] To design a Fuzzy Logic System (FLS) in evaluating the levels of visual and auditory capacity among special needs children.
 - [x] To develop an API that integrates between experiment stimulus (digit span) and Mamdani FLS.
 
-![Alternate image text](https://github.com/khairinahusny/FuzzyLogicSystem/tree/master/Images/FLS_architecture.png)
+![image](https://github.com/khairinahusny/FuzzyLogicSystem/blob/master/Images/FLS_architecture.PNG)
 
 ## Installation Guide:
 
