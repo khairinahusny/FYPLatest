@@ -6,19 +6,19 @@
 
 3. Install PIP. Python 3.7 came with PIP pre-installed. To be safe, update your PIP to the latest version using following command.
 
-`python -m pip install --U pip`
+-`python -m pip install --U pip`
 
 4. Install the following library using these commands in the terminal:
 
-`pip install numpy`
+-`pip install numpy`
 
-`pip install scipy`
+-`pip install scipy`
 
-`pip install -U scikit-fuzzy`
+-`pip install -U scikit-fuzzy`
 
-`pip install Flask`
+-`pip install Flask`
 
-`pip install matplotlib`
+-`pip install matplotlib`
 
-`pip install mysql-connector-python`
+-`pip install mysql-connector-python`
 
