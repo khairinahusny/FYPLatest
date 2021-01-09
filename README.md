@@ -36,3 +36,20 @@
 
 -`pip install mysql-connector-python`
 
+## References:
+
+de Leeuw, J.R. (2015). jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47(1), 1-12. doi:10.3758/s13428-014-0458-y
+
+Reimers, S., & Stewart, N. (2016). Auditory presentation and synchronization in Adobe Flash and HTML5/JavaScript Web experiments. Behavior Research Methods, 48(3), 897-908.
+
+Edwards, L., & Anderson, S. (2014). The association between visual, nonverbal cognitive abilities and speech, phonological processing, vocabulary and reading outcomes in children with cochlear implants. Ear and hearing, 35(3), 366-374.
+
+Ferguson, M. A., & Moore, D. R. (2014, February). Auditory processing performance and nonsensory factors in children with specific language impairment or auditory processing disorder. In Seminars in Hearing (Vol. 35, No. 01, pp. 001-014). Thieme Medical Publishers.
+
+Khenissi, M. A., Essalmi, F., & Jemni, M. (2014, July). Learners' Working Memory Capacity Modeling Based on Fuzzy Logic. In 2014 IEEE 14th International Conference on Advanced Learning Technologies (pp. 520-521). IEEE.
+
+Wilhelm, O., Hildebrandt, A. H., & Oberauer, K. (2013). What is working memory capacity, and how can we measure it?. Frontiers in psychology, 4, 433.
+
+Wechsler, D. (2012). Wechsler preschool and primary scale of intelligence—fourth edition. San Antonio, TX: The Psychological Corporation.
+
+
